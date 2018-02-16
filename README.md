@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+02/16/2018
 
 ### Student Name:  
-(First and Last Name)
+Shawn Herron 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+A calculator was designed to take input of expense values and then display the percentage each expense represents to the total amount of expenses.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://sbh15b.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Assigning values that were put in by the user to variables to be calculated by the program.
+2. Taking variables from the user and calculating to then display back to the user.
+3. Calculation symbols that the program needs in order to execute calculations.
 
 
 
